@@ -25,27 +25,6 @@ My work focuses on turning complex data into practical solutions through **Pytho
 **Data Engineering:** ETL/ELT, Data Modeling, Data Quality, Airflow, dbt  
 **MLOps & Development:** MLflow, Git, GitHub, Docker, Jenkins
 
-### Selected Projects
-
-🔹 **Supply Chain Intelligence Platform**  
-End-to-end analytics and machine learning platform focused on supply chain intelligence and decision support.  
-**Status:** 🚧 Work in Progress
-
-🔹 **Fraud & Deep-Fake Transaction Detection**  
-Machine learning and graph-based approaches for identifying anomalous financial activity and potential synthetic/fraudulent transactions.
-
-🔹 **Pharmacovigilance Signal Pipeline**  
-Data engineering and analytics workflow for processing pharmaceutical safety data and identifying potential safety signals.
-
-🔹 **Financial Reconciliation Engine**  
-SQL/dbt-based analytics engineering project focused on automating financial reconciliation and improving data reliability.
-
-🔹 **Customer Churn & Retention**
-Predictive modeling and customer analytics for retention decision-making.
-
-🔹 **Layoff Market Intelligence**
-Automated data pipeline and longitudinal analysis of workforce trends.
-
 ### Certifications
 
 - Google Professional Machine Learning Engineer
