@@ -2,9 +2,9 @@
 
 **Senior Data Science | Machine Learning | Predictive Modeling | Data Governance | Python | SQL | Analytics Engineering**
 
-I’m a data and analytics professional with experience building machine learning models, predictive analytics solutions, scalable data pipelines, and decision-support systems across healthcare, pharmaceuticals, finance, and operations.
+I’m a data and analytics professional focused on machine learning, predictive modeling, analytics engineering, and data-driven decision systems, with experience working across pharmaceuticals, healthcare, finance, and operations. I build practical solutions using Python, SQL, statistical modeling, machine learning, and modern data platforms, with an emphasis on turning complex data into reliable, scalable, and actionable outcomes.
 
-My work focuses on turning complex data into practical solutions through **Python, SQL, machine learning, statistical analysis, and modern data platforms**.
+My work spans predictive analytics, anomaly detection, forecasting, data pipelines, data quality, and governance-aware analytics. I’m also expanding my technical focus toward Enterprise AI, AI governance, responsible AI, and AI risk, exploring how organizations can build and scale AI systems with appropriate controls and accountability.
 
 ### What I Work On
 
