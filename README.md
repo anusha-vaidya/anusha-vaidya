@@ -19,14 +19,14 @@ My work spans predictive analytics, anomaly detection, forecasting, data pipelin
 ### Technical Stack
 
 **Languages:** Python, SQL, R
-**Machine Learning:** scikit-learn, XGBoost, PyTorch, TensorFlow
-**Data & Processing:** Pandas, NumPy, PySpark, Databricks
-**Databases:** MySQL, SQL Server, MongoDB
-**Cloud:** AWS, Azure, GCP
-**Analytics & Visualization:** Power BI, Tableau, Matplotlib
-**Data Engineering:** ETL/ELT, Data Modeling, Data Quality, Airflow, dbt
-**Data Governance:** Data Validation, Data Quality Controls, Data Lineage, Compliance Analytics, Governance-Aware Data Practices
-**MLOps & Development:** MLflow, Git, GitHub, Docker, Jenkins
+* **Machine Learning:** scikit-learn, XGBoost, PyTorch, TensorFlow
+* **Data & Processing:** Pandas, NumPy, PySpark, Databricks
+* **Databases:** MySQL, SQL Server, MongoDB
+* **Cloud:** AWS, Azure, GCP
+* **Analytics & Visualization:** Power BI, Tableau, Matplotlib
+* **Data Engineering:** ETL/ELT, Data Modeling, Data Quality, Airflow, dbt
+* **Data Governance:** Data Validation, Data Quality Controls, Data Lineage, Compliance Analytics, Governance-Aware Data Practices
+* **MLOps & Development:** MLflow, Git, GitHub, Docker, Jenkins
 
 
 ### Certifications
