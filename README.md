@@ -1,6 +1,6 @@
 # Anusha Vaidya
 
-**Data Science | Machine Learning | Analytics Engineering**
+**Senior Data Science | Machine Learning | Predictive Modeling | Data Governance | Python | SQL | Analytics Engineering**
 
 I’m a data and analytics professional with experience building machine learning models, predictive analytics solutions, scalable data pipelines, and decision-support systems across healthcare, pharmaceuticals, finance, and operations.
 
